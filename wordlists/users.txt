@@ -1,0 +1,11 @@
+root
+admin
+user
+guest
+msfadmin
+test
+administrator
+ftp
+www-data
+mysql
+postgres
